@@ -1,0 +1,7 @@
+# Datos y archivos temporales
+/data/
+/outputs/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
